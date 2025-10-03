@@ -37,4 +37,4 @@ print("Quantity:", quantity)
 print("Subtotal: $", round(subtotal, 2))
 print("Tax (8%): $", round(tax, 2))
 print("Total cost: $", round(total_cost, 2))
-
+print(3/3) #division operation
